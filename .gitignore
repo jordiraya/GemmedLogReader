@@ -1,0 +1,16 @@
+/.gradle/
+/bin/
+/.settings/
+/.classpath
+/.project
+/build/
+/.scannerwork/
+/.sonar/
+/src/querydsl/
+/src/jpaModelgen/
+/.idea
+*.iml
+/out/
+/data/
+/.apt_generated/
+/.factorypath
